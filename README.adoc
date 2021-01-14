@@ -1,0 +1,20 @@
+= ARSnova
+Particify <arsnova@particify.de>
+
+
+== Audience Response System by Particify
+
+ARSnova is a modern, web-based approach to Audience Response Systems (ARS).
+It is the basis for the https://particify.de[online service Particify] and released under an open-source license.
+The software project was initially started at the https://www.thm.de[Technische Hochschule Mittelhessen] (University of Applied Science)
+and development has been taken over by Particify.
+
+image::https://gitlab.com/particify/dev/foss/arsnova/-/raw/master/assets/showcase.png[A showcase of ARSnova's quiz feature,700]
+
+All https://gitlab.com/particify/dev/foss/arsnova[open-source repositories] can be found at GitLab where the development takes place.
+
+
+== ARSnova-related projects by THM
+
+There are more ARSnova-related projects including “frag.jetzt”, “arsnova.cards” and “arsnova.click” which are still developed at THM.
+Development information about these projects can be found in their respective https://git.thm.de/arsnova[repositories].
